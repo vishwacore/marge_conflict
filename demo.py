@@ -1,0 +1,2 @@
+print("vishwa")
+print("maddaraki")
